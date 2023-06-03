@@ -1,0 +1,5 @@
+export { askLetter } from './ask-letter'
+export { computerShift } from './computer-shift'
+export { createCardHtml } from './create-card'
+export { createDeck } from './create-deck'
+export { valueCard } from './value-letter'
